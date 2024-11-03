@@ -22,9 +22,9 @@ In addition to educational content, the site includes a Carbon Footprint Calcula
 
 ## How to Use
 
-1.	Clone the repository:
-    '''bash
-  	git clone https://github.com/Alfie432/NatureHacksSubmission2024.git 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Alfie432/NatureHacksSubmission2024.git
 3.	Open index.html in a web browser.
 4.	Navigate through the website sections to learn about sustainability issues.
 5.	Use the Carbon Footprint Calculator by entering data on transportation, energy use, etc., to see your estimated footprint.
