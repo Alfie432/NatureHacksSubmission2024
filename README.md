@@ -18,7 +18,7 @@ In addition to educational content, the site includes a Carbon Footprint Calcula
 
 *	HTML: Hosts the content on environmental topics with links to detailed information.
 *	CSS: Styles the website with a clean, easy-to-read design for user-friendly navigation.
-*	JavaScript: Powers the Carbon Footprint Calculator, providing users with real-time feedback on their environmental impact.
+*	JavaScript: Powers the Carbon Footprint Calculator, providing users with personalized results based on their numbers.
 
 ## How to Use
 
