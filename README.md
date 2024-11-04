@@ -34,4 +34,4 @@ coming soon
 
 ## Acknowledgments
 
-Thanks to NatureHacks for giving me the opportunity to participate in this Hackathon and bring this project to life.
+Thanks to NatureHacks by CURIE-osity for giving me the opportunity to participate in this Hackathon and bring this project to life!
