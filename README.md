@@ -29,7 +29,7 @@ In addition to educational content, the site includes a Carbon Footprint Calcula
 4.	Navigate through the website sections to learn about sustainability issues.
 5.	Use the Carbon Footprint Calculator by entering data on transportation, energy use, etc., to see your estimated footprint.
 
-## Submission Video
+## Submission/Demo Video
 coming soon
 
 ## Acknowledgments
