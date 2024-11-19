@@ -1,5 +1,5 @@
 # NatureHacksSubmission2024
-This is my submission to the Nature Hacks Hackathon 2024 - Alfie Alpha
+This is my submission to the Nature Hacks Hackathon 2024 - Alfie Alpha - a high school student
 
 
 ## Overview
